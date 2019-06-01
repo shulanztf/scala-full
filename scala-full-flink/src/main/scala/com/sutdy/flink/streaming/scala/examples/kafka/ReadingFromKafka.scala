@@ -28,10 +28,10 @@ object ReadingFromKafka {
     env.enableCheckpointing(1000)
     env.getCheckpointConfig.setCheckpointingMode(CheckpointingMode.EXACTLY_ONCE)
 
-    // configure Kafka consumer
+    // TODO,虚拟机NET方式，连接不上kafka，本地kafka测试成功，待验证桥接方式kafka连接；消息乱码待解决
     val kafkaProps: Properties = new Properties()
-    kafkaProps.setProperty("zookeeper.connect", "192.168.174.101:2181")
-    kafkaProps.setProperty("bootstrap.servers", "192.168.174.101:9092")
+    kafkaProps.setProperty("zookeeper.connect", "127.0.0.1:2181")
+    kafkaProps.setProperty("bootstrap.servers", "127.0.0.1:9092")
     kafkaProps.setProperty("group.id", "JSH-YD-2")
     kafkaProps.setProperty("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer")
     kafkaProps.setProperty("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer")
@@ -44,9 +44,9 @@ object ReadingFromKafka {
 //        transaction.addSink(tup => {
 //          println("abc...",tup)
 //        })
-    transaction.print()
+//    transaction.print()
 //    transaction.print("ewfwwe...")
-//    transaction.writeAsText("/data/flink/kafka-data")
+    transaction.writeAsText("/data/flink/kafka-data")
 
     println("ccc....")
 
