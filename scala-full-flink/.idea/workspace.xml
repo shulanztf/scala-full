@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35a6a88b-8667-4888-8531-96ac543ad60c" name="Default" comment="" />
+    <list default="true" id="35a6a88b-8667-4888-8531-96ac543ad60c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/FlinkKafkaDemon1.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/ReadingFromKafka.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/TrackRealTimeAcquisitionHackAttack.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/test1.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_0_10_2_11_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_0_11_2_11_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_0_9_2_11_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_base_2_11_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_11_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/Person1$.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/Person1$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/Person1.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/Person1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4$$anon$1.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4$$anonfun$createSerializer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4$$anonfun$createSerializer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5$$anon$2.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5$$anon$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5$$anonfun$createSerializer$2.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5$$anonfun$createSerializer$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anon$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6$$anon$3.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6$$anon$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6$$anonfun$createSerializer$3.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6$$anonfun$createSerializer$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$$anon$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest2$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest3$.class" afterPath="$PROJECT_DIR$/target/classes/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest3$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-full-flink.iml" afterPath="$PROJECT_DIR$/scala-full-flink.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,88 +41,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="635219081">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TrackRealTimeAcquisitionHackAttack.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/TrackRealTimeAcquisitionHackAttack.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="54" column="49" lean-forward="false" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flinkSQLTest1.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="82" column="61" lean-forward="false" selection-start-line="82" selection-start-column="61" selection-end-line="82" selection-end-column="61" />
+            <state relative-caret-position="204">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
-                <element signature="e#57#92#0" expanded="true" />
+                <element signature="e#56#81#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StreamTableEnvironment.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/StreamTableEnvironment.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="196" column="43" lean-forward="false" selection-start-line="196" selection-start-column="43" selection-end-line="196" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectorDescriptor.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2.jar!/org/apache/flink/table/descriptors/ConnectorDescriptor.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataStream.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="902" column="6" lean-forward="false" selection-start-line="902" selection-start-column="6" selection-end-line="902" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JoinDemo.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/JoinDemo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1674">
-              <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#57#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraversableOnce.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/TraversableOnce.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/immutable/List.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -102,7 +71,22 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>scala-compiler</find>
+      <find>redis</find>
+      <find>assign</find>
+      <find>setStreamTimeCharacteristic</find>
+      <find>FlinkKafkaConsumer</find>
+      <find>kafka.version</find>
+      <find>flink-connector-kafka-base</find>
+      <find>kafka</find>
+      <find>zookeeper.connect</find>
+      <find>zookeeper</find>
+      <find>bootstrap.servers</find>
+      <find>FlinkKafkaConsumer011</find>
+      <find>RealTimeTrackerBean</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -116,8 +100,15 @@
         <option value="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/immutable/List.class" />
         <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/com/JoinDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/JoinDemo.scala" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/test1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/FilnkCostKafka.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/FilnkCostKafka.scala" />
+        <option value="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/Long.class" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/FlinkKafkaDemon1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/ReadingFromKafka.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/TrackRealTimeAcquisitionHackAttack.scala" />
       </list>
     </option>
   </component>
@@ -136,11 +127,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="267" />
-    <option name="y" value="381" />
-    <option name="width" value="1574" />
+    <option name="x" value="215" />
+    <option name="y" value="385" />
+    <option name="width" value="1575" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -161,33 +153,42 @@
           <expand>
             <path>
               <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.scala-lang:scala-library:2.11.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.scala-lang:scala-library:2.11.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="scala-library-2.11.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.scala-lang:scala-library:2.11.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="scala-library-2.11.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.scala-lang:scala-library:2.11.11" type="70bed36:NamedLibraryElementNode" />
-              <item name="scala-library-2.11.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-full-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-full-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,19 +196,19 @@
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="D:/opt/scala/scala-2.11.11" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,15 +222,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoinDemo">
-    <configuration name="JoinDemo (1)" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.TrackRealTimeAcquisitionHackAttack">
+    <configuration name="FilnkCostKafka" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.socket.com.*" />
+          <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.socket.com.JoinDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.kafka.FilnkCostKafka" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -242,7 +243,7 @@
       <envs />
     </configuration>
     <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.socket.*" />
           <option name="ENABLED" value="true" />
@@ -260,12 +261,52 @@
       <module name="scala-full-flink" />
       <envs />
     </configuration>
+    <configuration name="ReadingFromKafka" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.kafka.ReadingFromKafka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-full-flink" />
+      <envs />
+    </configuration>
+    <configuration name="TrackRealTimeAcquisitionHackAttack" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.kafka.TrackRealTimeAcquisitionHackAttack" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-full-flink" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
       <module />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -280,6 +321,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -290,7 +334,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -300,19 +344,18 @@
       </option>
       <envs />
       <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -325,7 +368,7 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
@@ -340,15 +383,18 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="flinkSQLTest1" type="Application" factoryName="Application" temporary="true">
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.socket.flinkSQLTest1" />
+      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.socket.test1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -360,37 +406,20 @@
       <module name="scala-full-flink" />
       <envs />
     </configuration>
-    <configuration name="flinkSQLTest2" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sutdy.flink.streaming.scala.examples.socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sutdy.flink.streaming.scala.examples.socket.flinkSQLTest2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="scala-full-flink" />
-      <envs />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.flinkSQLTest1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.flinkSQLTest2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JoinDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.JoinDemo (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.JoinDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.test1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FilnkCostKafka" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReadingFromKafka" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TrackRealTimeAcquisitionHackAttack" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.JoinDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JoinDemo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.flinkSQLTest2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.flinkSQLTest1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TrackRealTimeAcquisitionHackAttack" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReadingFromKafka" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FilnkCostKafka" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JoinDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -413,41 +442,45 @@
       <option name="presentableId" value="Default" />
       <updated>1558152219401</updated>
       <workItem from="1558152220722" duration="11713000" />
+      <workItem from="1559357784644" duration="118000" />
+      <workItem from="1559357965331" duration="3276000" />
+      <workItem from="1559365316658" duration="9646000" />
+      <workItem from="1559375182849" duration="3782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11713000" />
+    <option name="totallyTimeSpent" value="28535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38311687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26406926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18954249" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30392158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -462,160 +495,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala-full/App.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/table.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="151" column="6" lean-forward="false" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/sources/TableSource.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/scala/StreamTableEnvironment.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="144" column="6" lean-forward="false" selection-start-line="144" selection-start-column="6" selection-end-line="144" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/TableEnvironment.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="538" column="64" lean-forward="false" selection-start-line="538" selection-start-column="53" selection-end-line="538" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="53" column="100" lean-forward="false" selection-start-line="53" selection-start-column="90" selection-end-line="53" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/sources/CsvTableSource.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/scala/TableConversions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/CoGroupedStreams.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/runtime/tasks/OperatorChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="595" column="0" lean-forward="false" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/DataStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="94" column="125" lean-forward="false" selection-start-line="94" selection-start-column="115" selection-end-line="94" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/com/JoinDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding>
-            <element signature="e#61#94#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/CoGroupedStreams.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="108" column="28" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="902" column="6" lean-forward="false" selection-start-line="902" selection-start-column="6" selection-end-line="902" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/JAVA/jdk1.8.0_144/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="883" column="16" lean-forward="false" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
-          <folding>
-            <element signature="e#37718#37719#0" expanded="false" />
-            <element signature="e#37754#37755#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/immutable/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/TraversableOnce.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/JoinDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1674">
-          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="e#57#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="1242">
           <caret line="54" column="49" lean-forward="false" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
           <folding />
         </state>
@@ -623,9 +505,8 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/StreamTableEnvironment.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="4508">
           <caret line="196" column="43" lean-forward="false" selection-start-line="196" selection-start-column="43" selection-end-line="196" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,16 +514,357 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20746">
+          <caret line="902" column="6" lean-forward="false" selection-start-line="902" selection-start-column="6" selection-end-line="902" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/JoinDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/TraversableOnce.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/immutable/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="82" column="61" lean-forward="false" selection-start-line="82" selection-start-column="61" selection-end-line="82" selection-end-column="61" />
+        <state relative-caret-position="2024">
+          <caret line="88" column="64" lean-forward="true" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala-full/App.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/table.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="151" column="6" lean-forward="false" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/sources/TableSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/scala/StreamTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="144" column="6" lean-forward="false" selection-start-line="144" selection-start-column="6" selection-end-line="144" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="53" column="100" lean-forward="false" selection-start-line="53" selection-start-column="90" selection-end-line="53" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/sources/CsvTableSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/scala/TableConversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/CoGroupedStreams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/runtime/tasks/OperatorChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="595" column="0" lean-forward="false" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2.jar!/org/apache/flink/streaming/api/scala/DataStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="94" column="125" lean-forward="false" selection-start-line="94" selection-start-column="115" selection-end-line="94" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/CoGroupedStreams.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="108" column="28" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/JAVA/jdk1.8.0_144/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="883" column="16" lean-forward="false" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/StreamTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3358">
+          <caret line="196" column="43" lean-forward="false" selection-start-line="196" selection-start-column="43" selection-end-line="196" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2.jar!/org/apache/flink/table/descriptors/ConnectorDescriptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/TraversableOnce.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/collection/immutable/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/flinkSQLTest1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="88" column="64" lean-forward="false" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19826">
+          <caret line="902" column="6" lean-forward="false" selection-start-line="902" selection-start-column="6" selection-end-line="902" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/JoinDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="65" lean-forward="false" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/FilnkCostKafka.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/test1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/socket/com/JoinDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/CheckpointingMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="76" column="17" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-redis_2.10/1.1.5/flink-connector-redis_2.10-1.1.5.jar!/org/apache/flink/streaming/connectors/redis/common/mapper/RedisCommandDescription.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.2/flink-streaming-scala_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="206" column="6" lean-forward="false" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="290" column="63" lean-forward="true" selection-start-line="290" selection-start-column="63" selection-end-line="290" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/functions/AssignerWithPunctuatedWatermarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="66" column="66" lean-forward="false" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/functions/TimestampAssigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="47" column="41" lean-forward="false" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar!/scala/Long.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/api/watermark/Watermark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.2/flink-core-1.7.2-sources.jar!/org/apache/flink/api/common/serialization/SimpleStringSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
           <folding>
-            <element signature="e#57#92#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1868#1869#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/java/StreamTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="34" column="69" lean-forward="true" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/catalog/ExternalCatalog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2-sources.jar!/org/apache/flink/table/api/TableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="413" column="48" lean-forward="true" selection-start-line="413" selection-start-column="48" selection-end-line="413" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.11_2.11/1.7.2/flink-connector-kafka-0.11_2.11-1.7.2.jar!/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer011.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.10_2.11/1.7.2/flink-connector-kafka-0.10_2.11-1.7.2.jar!/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer010.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="54" column="11" lean-forward="false" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.9_2.11/1.7.2/flink-connector-kafka-0.9_2.11-1.7.2.jar!/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer09.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="109" column="65" lean-forward="false" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.9_2.11/1.7.2/flink-connector-kafka-0.9_2.11-1.7.2-sources.jar!/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="63" column="33" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/FlinkKafkaDemon1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#56#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/FilnkCostKafka.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#56#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/ReadingFromKafka.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#56#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sutdy/flink/streaming/scala/examples/kafka/TrackRealTimeAcquisitionHackAttack.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="e#56#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
